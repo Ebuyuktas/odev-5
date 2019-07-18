@@ -1,3 +1,7 @@
+#bonus ödev
+#biri sayı digeri harften olusan ıkı lıstenın ıkı farklı kombinasyonu
+
+
 sayilar=["1","2","3","4","5","6","7","8","9","10"]
 harfler=['a','b','c',"d","e","f","g","h","i","i"]
 kombin1=[]
